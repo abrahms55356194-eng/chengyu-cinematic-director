@@ -1,0 +1,808 @@
+[
+  {
+    "name": "单人情绪表演",
+    "source_facts": [
+      "她读信后缓缓放下信"
+    ],
+    "locked_facts": [
+      "她读信后缓缓放下信"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "她读信后缓缓放下信",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  },
+  {
+    "name": "双人对话",
+    "source_facts": [
+      "甲问路乙指向门口"
+    ],
+    "locked_facts": [
+      "甲问路乙指向门口"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "甲问路乙指向门口",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  },
+  {
+    "name": "三人群戏",
+    "source_facts": [
+      "甲递杯乙接杯丙移椅子"
+    ],
+    "locked_facts": [
+      "甲递杯乙接杯丙移椅子"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "甲递杯乙接杯丙移椅子",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  },
+  {
+    "name": "电影级人物特写",
+    "source_facts": [
+      "他抬眼并屏息"
+    ],
+    "locked_facts": [
+      "他抬眼并屏息"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "他抬眼并屏息",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  },
+  {
+    "name": "高速追逐",
+    "source_facts": [
+      "她跑到转角扶墙制动"
+    ],
+    "locked_facts": [
+      "她跑到转角扶墙制动"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "她跑到转角扶墙制动",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  },
+  {
+    "name": "武器动作",
+    "source_facts": [
+      "他抬起木剑挥空后收势"
+    ],
+    "locked_facts": [
+      "他抬起木剑挥空后收势"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "他抬起木剑挥空后收势",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  },
+  {
+    "name": "大规模爆炸",
+    "source_facts": [
+      "远处油罐爆炸守卫蹲下"
+    ],
+    "locked_facts": [
+      "远处油罐爆炸守卫蹲下"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": true,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "远处油罐爆炸守卫蹲下",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "vfx": {
+          "source": "远处油罐爆炸守卫蹲下",
+          "trigger": "剧本事件开始",
+          "formation": "源头局部变化",
+          "propagation": "向接触面传播",
+          "interaction": "实体遮挡",
+          "receiver_response": "接触后位移",
+          "environment_response": "灰尘反射同步",
+          "dissipation": "强度随距离下降",
+          "residue": "受影响物体保留状态"
+        }
+      }
+    ]
+  },
+  {
+    "name": "超自然能量释放",
+    "source_facts": [
+      "掌心能量环扩散至石门后熄灭"
+    ],
+    "locked_facts": [
+      "掌心能量环扩散至石门后熄灭"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": true,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "掌心能量环扩散至石门后熄灭",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "vfx": {
+          "source": "掌心能量环扩散至石门后熄灭",
+          "trigger": "剧本事件开始",
+          "formation": "源头局部变化",
+          "propagation": "向接触面传播",
+          "interaction": "实体遮挡",
+          "receiver_response": "接触后位移",
+          "environment_response": "灰尘反射同步",
+          "dissipation": "强度随距离下降",
+          "residue": "受影响物体保留状态"
+        }
+      }
+    ]
+  },
+  {
+    "name": "巨型生物登场",
+    "source_facts": [
+      "巨兽从雾后走出压弯树枝"
+    ],
+    "locked_facts": [
+      "巨兽从雾后走出压弯树枝"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": true,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "巨兽从雾后走出压弯树枝",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "vfx": {
+          "source": "巨兽从雾后走出压弯树枝",
+          "trigger": "剧本事件开始",
+          "formation": "源头局部变化",
+          "propagation": "向接触面传播",
+          "interaction": "实体遮挡",
+          "receiver_response": "接触后位移",
+          "environment_response": "灰尘反射同步",
+          "dissipation": "强度随距离下降",
+          "residue": "受影响物体保留状态"
+        }
+      }
+    ]
+  },
+  {
+    "name": "建筑坍塌",
+    "source_facts": [
+      "旧塔支柱断裂上层塌落"
+    ],
+    "locked_facts": [
+      "旧塔支柱断裂上层塌落"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": true,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "旧塔支柱断裂上层塌落",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "vfx": {
+          "source": "旧塔支柱断裂上层塌落",
+          "trigger": "剧本事件开始",
+          "formation": "源头局部变化",
+          "propagation": "向接触面传播",
+          "interaction": "实体遮挡",
+          "receiver_response": "接触后位移",
+          "environment_response": "灰尘反射同步",
+          "dissipation": "强度随距离下降",
+          "residue": "受影响物体保留状态"
+        }
+      }
+    ]
+  },
+  {
+    "name": "长镜头运镜",
+    "source_facts": [
+      "镜头跟随她穿过敞开的门"
+    ],
+    "locked_facts": [
+      "镜头跟随她穿过敞开的门"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 6,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "镜头跟随她穿过敞开的门",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  },
+  {
+    "name": "多镜头连续剧情",
+    "source_facts": [
+      "她放下钥匙然后转身离开"
+    ],
+    "locked_facts": [
+      "她放下钥匙然后转身离开"
+    ],
+    "characters": {
+      "A": "短黑发灰外套左眉浅疤"
+    },
+    "source_dialogue": [],
+    "dialogue": [],
+    "needs_vfx": false,
+    "duration": 10,
+    "shots": [
+      {
+        "start": 0,
+        "end": 6,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "她放下钥匙然后转身离开",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "characters": [
+          "A"
+        ],
+        "camera": {
+          "position": "主体右前方两米，高1.5米",
+          "route": "静止，走廊无遮挡",
+          "end": "半身构图",
+          "focus": "近眼",
+          "purpose": "观察动作终点"
+        },
+        "lighting": {
+          "source": "左侧窗户天空光",
+          "direction": "左向右",
+          "hardness": "大面积柔光",
+          "material_response": "棉布漫反射"
+        },
+        "action": {
+          "start": "双脚站稳",
+          "force": "支撑脚承重肩肘发力",
+          "trajectory": "她放下钥匙然后转身离开",
+          "contact": "先接触再反馈",
+          "response": "衣料延迟摆动",
+          "end": "稳定站立"
+        },
+        "start_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        },
+        "end_state": {
+          "position": "门内左侧",
+          "prop": "右手持信",
+          "wardrobe": "灰色外套",
+          "light": "左窗",
+          "sound": "风声"
+        }
+      }
+    ]
+  }
+]

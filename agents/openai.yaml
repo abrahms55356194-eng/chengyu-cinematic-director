@@ -1,0 +1,4 @@
+interface:
+  display_name: "CHENGYU 电影导演"
+  short_description: "将剧本转为具备摄影、灯光、表演、动作因果与连续性检查的电影视频提示词"
+  default_prompt: "使用 $chengyu-cinematic-director 将我的剧本转为 Seedance 2.5 电影提示词。"

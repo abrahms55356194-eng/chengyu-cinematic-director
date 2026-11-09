@@ -1,0 +1,60 @@
+{
+  "name": "单人情绪表演",
+  "source_facts": [
+    "她读信后缓缓放下信"
+  ],
+  "locked_facts": [
+    "她读信后缓缓放下信"
+  ],
+  "characters": {
+    "A": "短黑发灰外套左眉浅疤"
+  },
+  "source_dialogue": [],
+  "dialogue": [],
+  "needs_vfx": false,
+  "duration": 6,
+  "shots": [
+    {
+      "start": 0,
+      "end": 6,
+      "characters": [
+        "A"
+      ],
+      "camera": {
+        "position": "主体右前方两米，高1.5米",
+        "route": "静止，走廊无遮挡",
+        "end": "半身构图",
+        "focus": "近眼",
+        "purpose": "观察动作终点"
+      },
+      "lighting": {
+        "source": "左侧窗户天空光",
+        "direction": "左向右",
+        "hardness": "大面积柔光",
+        "material_response": "棉布漫反射"
+      },
+      "action": {
+        "start": "双脚站稳",
+        "force": "支撑脚承重肩肘发力",
+        "trajectory": "她读信后缓缓放下信",
+        "contact": "先接触再反馈",
+        "response": "衣料延迟摆动",
+        "end": "稳定站立"
+      },
+      "start_state": {
+        "position": "门内左侧",
+        "prop": "右手持信",
+        "wardrobe": "灰色外套",
+        "light": "左窗",
+        "sound": "风声"
+      },
+      "end_state": {
+        "position": "门内左侧",
+        "prop": "右手持信",
+        "wardrobe": "灰色外套",
+        "light": "左窗",
+        "sound": "风声"
+      }
+    }
+  ]
+}
